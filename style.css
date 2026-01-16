@@ -1,0 +1,46 @@
+body{
+    margin:0;
+    font-family: Arial;
+}
+
+header{
+    background:black;
+    color:white;
+    padding:15px;
+}
+
+nav a{
+    color:white;
+    margin:10px;
+    text-decoration:none;
+}
+
+.hero{
+    background:lightblue;
+    padding:50px;
+    text-align:center;
+}
+
+button{
+    padding:10px 20px;
+    background:black;
+    color:white;
+    border:none;
+}
+
+section{
+    padding:30px;
+}
+
+form input, form textarea{
+    width:100%;
+    margin:5px 0;
+    padding:10px;
+}
+
+footer{
+    background:black;
+    color:white;
+    text-align:center;
+    padding:10px;
+}
